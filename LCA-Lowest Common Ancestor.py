@@ -1,6 +1,6 @@
 # A recursive python program to find LCA of two nodes
 # n1 and n2
-
+#THIS IS FOR BINARY SEARCH TREEEEEEEE
 # A Binary tree node
 class Node:
 
